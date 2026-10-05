@@ -1,4 +1,4 @@
-7# Predicting Movie Rental Durations & Feature Significance Analysis
+# Predicting Movie Rental Durations & Feature Significance Analysis
 
 ## Overview
 This repository contains a predictive modeling and statistical testing framework developed for a DVD rental firm[span_0](start_span)[span_0](end_span). The goal is to help the rental inventory team predict how many days a customer will keep a rented movie (`rental_length_days`). Additionally, hypothesis testing via Ordinary Least Squares (OLS) regression is performed to determine which rental features (e.g., rental rate, replacement cost, bonus features) significantly influence rental duration.
