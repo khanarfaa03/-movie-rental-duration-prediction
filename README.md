@@ -37,9 +37,5 @@ A feature is considered statistically significant if its $p$-value $< 0.05$.
 ### Prerequisites
 * Python 3.8 or higher
 
-### Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/movie-rental-duration-prediction.git](https://github.com/your-username/movie-rental-duration-prediction.git)
-   cd movie-rental-duration-prediction
+
 
